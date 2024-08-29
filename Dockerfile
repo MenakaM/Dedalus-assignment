@@ -4,4 +4,4 @@ Workdir /app
 
 COPY longest_subdir.py
 
-CMD ["python" , longest_subdir.py , "/app"
+CMD ["python" , longest_subdir.py , "/app"]
